@@ -1,4 +1,5 @@
 Project Overview
+
 This project focuses on performing predictive data analysis to estimate medical insurance charges based on various demographic and lifestyle factors using IBM SPSS Modeler. The project aims to help the organization understand how attributes like age, body mass index (BMI), smoking habits, region, and number of dependents influence an individual’s medical expenses.
 By applying SPSS Modeler’s data preparation, transformation, and predictive modeling tools, the project demonstrates how raw data can be turned into actionable insights that assist insurance companies in pricing policies accurately, identifying high-risk customers, and improving decision-making.
 
