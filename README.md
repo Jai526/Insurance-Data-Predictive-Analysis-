@@ -4,6 +4,7 @@ This project focuses on performing predictive data analysis to estimate medical 
 By applying SPSS Modeler’s data preparation, transformation, and predictive modeling tools, the project demonstrates how raw data can be turned into actionable insights that assist insurance companies in pricing policies accurately, identifying high-risk customers, and improving decision-making.
 
 ##Project Objectives
+
 To import and explore the Insurance dataset using IBM SPSS Modeler.
 
 
