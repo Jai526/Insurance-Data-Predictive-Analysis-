@@ -1,3 +1,5 @@
+Predictive Analysis of Medical Insurance Charges Using IBM SPSS Modeler
+
 #Project Overview
 
 This project focuses on performing predictive data analysis to estimate medical insurance charges based on various demographic and lifestyle factors using IBM SPSS Modeler. The project aims to help the organization understand how attributes like age, body mass index (BMI), smoking habits, region, and number of dependents influence an individual’s medical expenses.
